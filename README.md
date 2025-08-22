@@ -1,6 +1,6 @@
 # 🐍 Snake Game (Python Turtle)
 
-A simple **Snake Game** built in Python using the `turtle` graphics library.  
+**Snake Game** built in Python using the `turtle` graphics library.  
 The game features a moving snake, randomly appearing food, score tracking, and screen wrap-around movement.
 
 ---
